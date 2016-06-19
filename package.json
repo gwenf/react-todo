@@ -33,6 +33,7 @@
     "karma-sourcemap-loader": "^0.3.7",
     "karma-webpack": "^1.7.0",
     "mocha": "^2.5.3",
+    "moment": "^2.13.0",
     "node-sass": "^3.7.0",
     "node-uuid": "^1.4.7",
     "react-addons-test-utils": "^15.1.0",
